@@ -96,7 +96,7 @@ The tracker below highlights the current progress of implemented systems and pla
 
 | Project | Description |
 |------|------|
-| [Backup Automation](automation/backup-automation.md) | Automated backup scripts |
+| [Backup Automation](https://github.com/k3rn3l-p4n1k-l4b/10inch-rack-homelab-infrastructure/blob/main/infrastructure-projects/backup-automation.md) | Automated backup scripts |
 | [System Health Checks](automation/system-health-checks.md) | Monitoring via scripts |
 | [Ansible Automation](automation/ansible-automation.md) | Infrastructure configuration management |
 
