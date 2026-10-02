@@ -8,7 +8,7 @@ Links provided below to jump to specific areas of interest.
 
 ### Overall Lab Completion
 
-Progress: **4 / 20 Projects Completed**
+Progress: **5 / 20 Projects Completed**
 
 [██████░░░░░░░░░░░░] 15%
 
@@ -27,12 +27,12 @@ The tracker below highlights the current progress of implemented systems and pla
 | Linux Administration   | Secure Access Management (SSH Hardening) | ⬜ Planned |
 | Linux Administration   | Host-Based Firewall Implementation       | ⬜ Planned |
 | Linux Administration   | Internal DNS & DHCP Services             | ✅ Completed |
-| Linux Administration   | Centralized File Server                  | ⬜ Planned |
+| Linux Administration   | Centralized File Server                  | ✅ Completed |
 | Security               | SSH Brute-Force Mitigation (Fail2ban)    | ⬜ Planned |
 | Security               | SELinux Policy Management                | ⬜ Planned |
 | Security               | Network Traffic Analysis                 | ⬜ Planned |
 | Monitoring             | Infrastructure Monitoring Stack          | ⬜ Planned |
-| Automation             | Backup Automation Scripts                | ⬜ Planned |
+| Automation             | Backup Automation Scripts                | ✅ Completed |
 | Automation             | System Health Check Automation           | ⬜ Planned |
 | Automation             | Configuration Management with Ansible    | ⬜ Planned |
 | Automation             | Service Lifecycle Automation             | ⬜ Planned |
@@ -78,6 +78,7 @@ The tracker below highlights the current progress of implemented systems and pla
 | [Secure Access Management](linux-admin/ssh-hardening.md) | SSH hardening and access control |
 | [Host Firewalls](linux-admin/host-firewalls.md) | Implementing UFW and Firewalld |
 | [DNS & DHCP Services](infrastructure-projects/Internal-DNS-DHCP/OPNSense-VLAN10-Setup.md) | Internal network services |
+| [Centralized Storage Server](https://github.com/k3rn3l-p4n1k-l4b/10inch-rack-homelab-infrastructure/blob/main/infrastructure-projects/centralized-file-server.md) | Network Attached Storage |
 
 ---
 
@@ -116,3 +117,5 @@ The tracker below highlights the current progress of implemented systems and pla
 | [Disk Exhaustion Incident](incidents/disk-exhaustion-incident.md) | Responding to storage failures |
 | [Service Outage Recovery](incidents/service-outage-recovery.md) | Recovering critical services |
 | [Security Incident Simulation](incidents/security-incident-response.md) | Investigating unauthorized access |
+
+⚠️ Note on Security (OpSec): Internal IP addresses, subnets, and hostnames have been intentionally omitted, masked, or blurred throughout this documentation to protect the integrity of the live environment
