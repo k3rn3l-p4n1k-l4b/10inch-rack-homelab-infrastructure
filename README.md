@@ -76,7 +76,7 @@ The tracker below highlights the current progress of implemented systems and pla
 | Project | Description |
 |------|------|
 | [Secure Access Management](linux-admin/ssh-hardening.md) | SSH hardening and access control |
-| [Host Firewalls](linux-admin/host-firewalls.md) | Implementing UFW and Firewalld |
+| [Host Firewalls](https://github.com/k3rn3l-p4n1k-l4b/10inch-rack-homelab-infrastructure/blob/main/infrastructure-projects/linux-administration-host-based-firewall.md) | Implementing UFW and Firewalld |
 | [DNS & DHCP Services](infrastructure-projects/Internal-DNS-DHCP/OPNSense-VLAN10-Setup.md) | Internal network services |
 | [Centralized Storage Server](https://github.com/k3rn3l-p4n1k-l4b/10inch-rack-homelab-infrastructure/blob/main/infrastructure-projects/centralized-file-server.md) | Network Attached Storage |
 
