@@ -8,7 +8,7 @@ Links provided below to jump to specific areas of interest.
 
 ### Overall Lab Completion
 
-Progress: **5 / 20 Projects Completed**
+Progress: **7 / 20 Projects Completed**
 
 [██████░░░░░░░░░░░░] 15%
 
@@ -25,7 +25,7 @@ The tracker below highlights the current progress of implemented systems and pla
 | Infrastructure         | Infrastructure Documentation             | 🟨 In Progress |
 | Windows Infrastructure | Active Directory Domain Lab              | ✅ Completed |
 | Linux Administration   | Secure Access Management (SSH Hardening) | ⬜ Planned |
-| Linux Administration   | Host-Based Firewall Implementation       | ⬜ Planned |
+| Linux Administration   | Host-Based Firewall Implementation       | ✅ Completed |
 | Linux Administration   | Internal DNS & DHCP Services             | ✅ Completed |
 | Linux Administration   | Centralized File Server                  | ✅ Completed |
 | Security               | SSH Brute-Force Mitigation (Fail2ban)    | ⬜ Planned |
