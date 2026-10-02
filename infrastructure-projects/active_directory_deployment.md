@@ -9,7 +9,7 @@ This project outlines the architectural deployment and validation of a high-dens
 
 ### 🗺️ Network Architecture & Topology
 
-![Network Diagram](images/network_diagram.png)
+![Network Diagram](https://github.com/k3rn3l-p4n1k-l4b/10inch-rack-homelab-infrastructure/blob/main/images/network_diagram.jpg)
 
 #### Subnet Breakdown
 * **VLAN 10 (MGMT):** 10.10.10.0/24 — Mapped to physical Switch Ports 1 & 2. Hosts the primary administration terminal, Proxmox GUI, Switch GUI, and OPNsense GUI management frameworks.
