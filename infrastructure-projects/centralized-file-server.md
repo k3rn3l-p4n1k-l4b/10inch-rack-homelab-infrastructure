@@ -19,7 +19,7 @@ This document covers the implementation of a centralized storage solution using 
 ### 2. Network Share Settings
 The dataset is exported via **NFS** to allow the Proxmox Virtualization Host to connect with minimal overhead and native Linux permissions.
 *   **Path**: `/mnt/tank/proxmox-backups`
-*   **Authorized Networks**: Restricted to the local management VLAN (e.g., `192.168.X.0/24`)
+*   **Authorized Networks**: Restricted to the local management VLAN (e.g., `xxx.xxx.x.x/xx`)
 *   **Maproot User**: `root` (Required for Proxmox backup storage access)
 
 > ![NFS Share Settings](https://github.com/k3rn3l-p4n1k-l4b/10inch-rack-homelab-infrastructure/blob/main/images/Shares%20screenshot%20jpg.jpg)
