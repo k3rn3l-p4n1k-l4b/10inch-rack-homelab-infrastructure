@@ -54,7 +54,7 @@ Open the configuration file in your editor:
 sudo nano /etc/fail2ban/jail.local
 ```
 
-### Critical Settings for a Headless Torrent Box
+### Critical Settings for a Headless Linux Server
 Scroll down to the `[DEFAULT]` section. Modify or add the following lines. 
 
 *Note: It is crucial to whitelist your home network's local subnet in `ignoreip` so you don't accidentally lock yourself out of your headless box.*
