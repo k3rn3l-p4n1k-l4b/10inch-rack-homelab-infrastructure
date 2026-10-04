@@ -1,10 +1,16 @@
-# 10-Inch Rack Homelab Infrastructure
+# Dual-Rack Homelab Infrastructure
 
-This repository documents a home lab designed to simulate real-world IT infrastructure and operational scenarios.
+This repository documents a multi-server home lab designed to simulate real-world IT infrastructure, lifecycle management, and operational scenarios. 
 
-The lab is built in a physical **10-inch rack environment** and uses virtualization, segmented networking, and multiple operating systems to replicate enterprise infrastructure.
+To maintain uptime for live services while allowing total freedom to experiment, the infrastructure is split across **two separate physical environments**:
+
+*   **Production Host (19-Inch Rack):** A full-sized rack deployment running Proxmox VE. This environment hosts stable, everyday infrastructure services that require high availability, such as identity management, core networking services, central storage, and automated backup routines.
+*   **Tinker & Lab Host (10-Inch Rack):** A compact, space-constrained physical 10-inch rack deployment. This serves as a dedicated hardware sandbox used to safely build, break, and test configurations—including custom security policies, intrusion prevention, and incident response simulations.
+
+While this repository documents projects built across both form factors, **completed implementations span across both environments** depending on their current operational purpose. This dual-rack setup provides a safe, realistic simulation of staging systems across separate development and production baselines.
 
 Links provided below to jump to specific areas of interest.
+
 
 ### Overall Lab Completion
 
