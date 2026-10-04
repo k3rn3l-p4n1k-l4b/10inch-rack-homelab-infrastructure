@@ -8,9 +8,10 @@ Links provided below to jump to specific areas of interest.
 
 ### Overall Lab Completion
 
-Progress: **7 / 20 Projects Completed**
+Progress: **9 / 20 Projects Completed**
 
-[██████░░░░░░░░░░░░] 15%
+[───────────────▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒] 50%
+
 
 ## 📈 Lab Progress Tracker
 
@@ -24,11 +25,11 @@ The tracker below highlights the current progress of implemented systems and pla
 | Infrastructure         | Linux Server Deployment                  | 🟨 In Progress |
 | Infrastructure         | Infrastructure Documentation             | 🟨 In Progress |
 | Windows Infrastructure | Active Directory Domain Lab              | ✅ Completed |
-| Linux Administration   | Secure Access Management (SSH Hardening) | ⬜ Planned |
+| Linux Administration   | Secure Access Management (SSH Hardening) | ✅ Completed |
 | Linux Administration   | Host-Based Firewall Implementation       | ✅ Completed |
 | Linux Administration   | Internal DNS & DHCP Services             | ✅ Completed |
 | Linux Administration   | Centralized File Server                  | ✅ Completed |
-| Security               | SSH Brute-Force Mitigation (Fail2ban)    | ⬜ Planned |
+| Security               | SSH Brute-Force Mitigation (Fail2ban)    | ✅ Completed |
 | Security               | SELinux Policy Management                | ⬜ Planned |
 | Security               | Network Traffic Analysis                 | ⬜ Planned |
 | Monitoring             | Infrastructure Monitoring Stack          | ⬜ Planned |
@@ -75,7 +76,7 @@ The tracker below highlights the current progress of implemented systems and pla
 
 | Project | Description |
 |------|------|
-| [Secure Access Management](linux-admin/ssh-hardening.md) | SSH hardening and access control |
+| [Secure Access Management](https://github.com/k3rn3l-p4n1k-l4b/10inch-rack-homelab-infrastructure/blob/main/infrastructure-projects/SSH-Brute-Force-Mitigation-Fail2ban.md) | SSH hardening and access control |
 | [Host Firewalls](https://github.com/k3rn3l-p4n1k-l4b/10inch-rack-homelab-infrastructure/blob/main/infrastructure-projects/linux-administration-host-based-firewall.md) | Implementing UFW and Firewalld |
 | [DNS & DHCP Services](infrastructure-projects/Internal-DNS-DHCP/OPNSense-VLAN10-Setup.md) | Internal network services |
 | [Centralized Storage Server](https://github.com/k3rn3l-p4n1k-l4b/10inch-rack-homelab-infrastructure/blob/main/infrastructure-projects/centralized-file-server.md) | Network Attached Storage |
@@ -86,7 +87,7 @@ The tracker below highlights the current progress of implemented systems and pla
 
 | Project | Description |
 |------|------|
-| [Fail2ban Intrusion Prevention](security/fail2ban-intrusion-prevention.md) | Protecting SSH from brute-force attacks |
+| [Fail2ban Intrusion Prevention](https://github.com/k3rn3l-p4n1k-l4b/10inch-rack-homelab-infrastructure/blob/main/infrastructure-projects/SSH-Brute-Force-Mitigation-Fail2ban.md) | Protecting SSH from brute-force attacks |
 | [SELinux Policy Management](security/selinux-policy-management.md) | Enforcing mandatory access controls |
 | [Network Traffic Analysis](security/network-traffic-analysis.md) | Packet inspection and troubleshooting |
 
